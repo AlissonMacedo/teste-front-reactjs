@@ -33,9 +33,7 @@ Queremos avaliar sua capacidade de desenvolver e documentar um front-end para um
 
 - Listando os produtos da api;
 
-<p align="center">
 <img src="./demo/demo1.gif" alt="demo1" title="demo1">
-</p>
 
 - Listando os produtos adicionados ao carrinho de compras;
 
